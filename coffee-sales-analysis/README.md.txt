@@ -36,4 +36,9 @@ The dataset was obtained from Kaggle and contains transaction-level coffee sales
 - Card payments dominate cash transactions, showing digital payment preference.
 - Certain products are consistently top sellers across both stores.
 
+
 ## Recommendations
+- Promote best-selling products through bundles to increase revenue.
+- Introduce time-based promotions during low-sales hours.
+- Encourage digital payments with loyalty rewards.
+- Upsell premium coffee products to increase average transaction value.
